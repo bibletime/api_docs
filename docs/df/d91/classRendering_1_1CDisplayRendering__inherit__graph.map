@@ -1,0 +1,5 @@
+<map id="Rendering::CDisplayRendering" name="Rendering::CDisplayRendering">
+<area shape="rect" id="node1" title="Rendering for the html display widget." alt="" coords="5,277,225,399"/>
+<area shape="rect" id="node3" href="$d5/d4a/classBtPrinter.html" title="Manages the print item queue and printing." alt="" coords="51,447,179,583"/>
+<area shape="rect" id="node2" href="$dd/dea/classRendering_1_1CTextRendering.html" title="Text rendering based on trees." alt="" coords="16,5,215,229"/>
+</map>

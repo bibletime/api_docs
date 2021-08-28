@@ -1,0 +1,7 @@
+<map id="Rendering::CTextRendering" name="Rendering::CTextRendering">
+<area shape="rect" id="node1" title="Text rendering based on trees." alt="" coords="261,5,460,229"/>
+<area shape="rect" id="node2" href="$d3/d32/classRendering_1_1CDisplayRendering.html" title="Rendering for the html display widget." alt="" coords="5,277,225,399"/>
+<area shape="rect" id="node4" href="$db/d7d/classRendering_1_1CPlainTextExportRendering.html" title="Text rendering as plain text." alt="" coords="249,277,472,399"/>
+<area shape="rect" id="node5" href="$d5/d70/classRendering_1_1CrossRefRendering.html" title=" " alt="" coords="496,285,716,391"/>
+<area shape="rect" id="node3" href="$d5/d4a/classBtPrinter.html" title="Manages the print item queue and printing." alt="" coords="51,447,179,583"/>
+</map>

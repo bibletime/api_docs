@@ -1,0 +1,9 @@
+<map id="QMainWindow" name="QMainWindow">
+<area shape="rect" id="node1" title=" " alt="" coords="277,5,393,83"/>
+<area shape="rect" id="node2" href="$d7/d66/classBibleTime.html" title=" " alt="" coords="101,131,325,1220"/>
+<area shape="rect" id="node3" href="$dc/dc1/classCDisplayWindow.html" title="The base class for all display windows of BibleTime." alt="" coords="349,285,567,1066"/>
+<area shape="rect" id="node4" href="$da/d2f/classCBibleReadWindow.html" title=" " alt="" coords="5,1268,199,1844"/>
+<area shape="rect" id="node5" href="$d9/d59/classCBookReadWindow.html" title=" " alt="" coords="223,1429,445,1683"/>
+<area shape="rect" id="node6" href="$d4/d85/classCCommentaryReadWindow.html" title=" " alt="" coords="470,1400,697,1712"/>
+<area shape="rect" id="node7" href="$d2/d38/classCLexiconReadWindow.html" title="The class used to display lexicons." alt="" coords="721,1473,915,1639"/>
+</map>
