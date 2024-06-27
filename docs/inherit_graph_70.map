@@ -1,0 +1,28 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d8/ded/classQWidget.html" title=" " alt="" coords="5,411,84,437"/>
+<area shape="rect" id="node2" href="$d5/dfc/classBtAboutDialog_1_1LicenseTab.html" title=" " alt="" coords="141,5,335,32"/>
+<area shape="rect" id="node3" href="$dc/db1/classBtBibleKeyWidget.html" title=" " alt="" coords="169,56,307,83"/>
+<area shape="rect" id="node4" href="$d1/d9f/classBtBookshelfWidget.html" title=" " alt="" coords="165,107,311,133"/>
+<area shape="rect" id="node5" href="$d4/d3c/classBtConfigDialog_1_1Page.html" title=" " alt="" coords="159,157,317,184"/>
+<area shape="rect" id="node10" href="$db/dd5/classBtFindWidget.html" title=" " alt="" coords="183,208,293,235"/>
+<area shape="rect" id="node11" href="$d5/d5b/classBtModelViewReadDisplay.html" title=" " alt="" coords="143,259,333,285"/>
+<area shape="rect" id="node12" href="$d3/dd8/classBtShortcutsEditor.html" title=" " alt="" coords="171,309,305,336"/>
+<area shape="rect" id="node13" href="$d7/d16/classBtStandardWorksTab.html" title=" " alt="" coords="160,360,316,387"/>
+<area shape="rect" id="node14" href="$dd/dcb/classBtTextFiltersTab.html" title=" " alt="" coords="175,411,301,437"/>
+<area shape="rect" id="node15" href="$da/d70/classBtTextWindowHeader.html" title=" " alt="" coords="157,461,319,488"/>
+<area shape="rect" id="node16" href="$d2/d16/classBtTextWindowHeaderWidget.html" title=" " alt="" coords="134,512,342,539"/>
+<area shape="rect" id="node17" href="$df/d40/classCKeyChooser.html" title=" " alt="" coords="184,563,292,589"/>
+<area shape="rect" id="node22" href="$db/d7d/classCKeyChooserWidget.html" title=" " alt="" coords="161,613,315,640"/>
+<area shape="rect" id="node23" href="$d1/d8a/classCScrollerWidgetSet.html" title=" " alt="" coords="165,664,311,691"/>
+<area shape="rect" id="node24" href="$d5/d28/classInfoDisplay_1_1CInfoDisplay.html" title=" " alt="" coords="145,715,331,741"/>
+<area shape="rect" id="node25" href="$d9/d85/classSearch_1_1BtSearchOptionsArea.html" title=" " alt="" coords="132,765,344,792"/>
+<area shape="rect" id="node26" href="$d4/d3d/classSearch_1_1BtSearchResultArea.html" title=" " alt="" coords="137,816,339,843"/>
+<area shape="rect" id="node6" href="$d7/dc3/classBtFontSettingsPage.html" title=" " alt="" coords="413,81,561,108"/>
+<area shape="rect" id="node7" href="$d7/d1f/classCAcceleratorSettingsPage.html" title="The shortcut settings page." alt="" coords="392,132,581,159"/>
+<area shape="rect" id="node8" href="$de/d34/classCDisplaySettingsPage.html" title=" " alt="" coords="405,183,569,209"/>
+<area shape="rect" id="node9" href="$da/dab/classCSwordSettingsPage.html" title=" " alt="" coords="409,233,564,260"/>
+<area shape="rect" id="node18" href="$d8/d57/classCBibleKeyChooser.html" title="A key chooser for bibles and commentaries." alt="" coords="416,487,557,513"/>
+<area shape="rect" id="node19" href="$df/d01/classCBookKeyChooser.html" title=" " alt="" coords="416,537,557,564"/>
+<area shape="rect" id="node20" href="$d1/dca/classCBookTreeChooser.html" title=" " alt="" coords="415,588,559,615"/>
+<area shape="rect" id="node21" href="$d6/d9b/classCLexiconKeyChooser.html" title=" " alt="" coords="407,639,566,665"/>
+</map>
