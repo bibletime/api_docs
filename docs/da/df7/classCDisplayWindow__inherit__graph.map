@@ -1,0 +1,8 @@
+<map id="CDisplayWindow" name="CDisplayWindow">
+<area shape="rect" id="node1" title="The base class for all display windows of BibleTime." alt="" coords="388,131,633,927"/>
+<area shape="rect" id="node3" href="$da/d2f/classCBibleReadWindow.html" title=" " alt="" coords="5,975,251,1492"/>
+<area shape="rect" id="node4" href="$d9/d59/classCBookReadWindow.html" title=" " alt="" coords="275,1121,498,1345"/>
+<area shape="rect" id="node5" href="$d4/d85/classCCommentaryReadWindow.html" title=" " alt="" coords="523,1085,749,1382"/>
+<area shape="rect" id="node6" href="$d2/d38/classCLexiconReadWindow.html" title="The class used to display lexicons." alt="" coords="774,1158,965,1309"/>
+<area shape="rect" id="node2" href="$df/d90/classQMainWindow.html" title=" " alt="" coords="453,5,569,83"/>
+</map>
