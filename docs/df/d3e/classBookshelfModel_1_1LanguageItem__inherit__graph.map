@@ -1,0 +1,10 @@
+<map id="BookshelfModel::LanguageItem" name="BookshelfModel::LanguageItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,772,225,877"/>
+<area shape="rect" id="Node000002" href="$d1/dcc/classBookshelfModel_1_1GroupItem.html" title=" " alt="" coords="17,623,213,723"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,736,118,772,113,772,113,736"/>
+<area shape="rect" id="Node000003" href="$d5/d1c/classBookshelfModel_1_1Item.html" title=" " alt="" coords="31,5,189,411"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,425,117,622,112,622,110,425"/>
+<area shape="rect" id="Node000004" href="$d1/dcc/classBookshelfModel_1_1GroupItem.html" title=" " alt="" coords="132,460,328,560"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="196,417,213,459,208,461,191,419"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="189,573,153,624,148,621,185,570"/>
+</map>
