@@ -1,0 +1,17 @@
+<map id="BtActionCollection" name="BtActionCollection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="270,119,431,324"/>
+<area shape="rect" id="Node000003" href="$d9/d10/classBibleTime_1_1ActionCollection.html" title=" " alt="" coords="133,372,328,657"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="306,338,292,373,287,371,301,336"/>
+<area shape="rect" id="Node000004" href="$db/ddf/classCDisplayWindow_1_1ActionCollection.html" title=" " alt="" coords="352,482,589,547"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="400,336,460,481,455,483,395,338"/>
+<area shape="rect" id="Node000002" href="$d9/d5b/classQObject.html" title=" " alt="" coords="317,5,384,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,84,353,119,348,119,348,84"/>
+<area shape="rect" id="Node000005" href="$d3/d5b/classCBibleReadWindow_1_1ActionCollection.html" title=" " alt="" coords="5,705,195,785"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="442,560,398,612,371,637,341,660,306,679,277,689,207,708,196,712,194,707,206,703,275,684,304,674,339,655,367,633,394,608,438,557"/>
+<area shape="rect" id="Node000006" href="$d4/ddd/classCBookReadWindow_1_1ActionCollection.html" title=" " alt="" coords="219,713,474,778"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="449,561,366,714,361,711,445,558"/>
+<area shape="rect" id="Node000007" href="$d6/d60/classCCommentaryReadWindow_1_1ActionCollection.html" title=" " alt="" coords="498,705,691,785"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="497,558,576,704,571,707,492,561"/>
+<area shape="rect" id="Node000008" href="$d4/da8/classCLexiconReadWindow_1_1ActionCollection.html" title=" " alt="" coords="715,705,874,785"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="528,553,741,703,738,707,525,557"/>
+</map>
