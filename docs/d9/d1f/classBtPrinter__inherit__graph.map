@@ -1,0 +1,9 @@
+<map id="BtPrinter" name="BtPrinter">
+<area shape="rect" id="Node000001" title="Manages the print item queue and printing." alt="" coords="60,672,180,817"/>
+<area shape="rect" id="Node000002" href="$d9/d5b/classQObject.html" title=" " alt="" coords="5,489,72,554"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,566,96,671,91,673,52,568"/>
+<area shape="rect" id="Node000003" href="$d3/d32/classRendering_1_1CDisplayRendering.html" title="Rendering for the html display widget." alt="" coords="95,419,307,624"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,638,149,672,144,670,157,636"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classRendering_1_1CTextRendering.html" title="Text rendering based on trees." alt="" coords="106,5,297,371"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,385,204,418,199,418,199,385"/>
+</map>
