@@ -1,0 +1,39 @@
+<map id="cswordtreekey.h" name="cswordtreekey.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="495,5,622,31"/>
+<area shape="rect" id="Node000002" href="$de/d93/btmoduletextmodel_8cpp.html" title=" " alt="" coords="5,152,184,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="482,25,393,31,294,42,205,58,171,69,146,81,129,97,116,116,100,153,95,151,111,114,124,93,142,76,169,64,204,53,293,36,392,26,481,20"/>
+<area shape="rect" id="Node000003" href="$df/d72/btmoduletextmodel_8h.html" title=" " alt="" coords="156,79,319,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="494,36,290,81,289,76,493,31"/>
+<area shape="rect" id="Node000012" href="$dd/d72/cbookkeychooser_8cpp.html" title=" " alt="" coords="359,79,521,104"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="529,40,461,81,458,76,526,35"/>
+<area shape="rect" id="Node000013" href="$d0/da4/cbooktreechooser_8cpp.html" title=" " alt="" coords="589,152,753,177"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="564,44,572,73,586,102,615,130,647,150,644,154,612,134,582,106,567,75,559,45"/>
+<area shape="rect" id="Node000014" href="$d9/dca/cbooktreechooser_8h.html" title=" " alt="" coords="596,79,745,104"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="590,36,654,76,651,81,587,40"/>
+<area shape="rect" id="Node000016" href="$db/dc6/cswordbookmoduleinfo_8cpp.html" title=" " alt="" coords="770,79,971,104"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="623,31,821,76,820,81,621,36"/>
+<area shape="rect" id="Node000017" href="$d5/d47/cswordtreekey_8cpp.html" title=" " alt="" coords="995,79,1138,104"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="636,27,995,77,995,83,635,33"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="204,112,119,154,117,149,201,108"/>
+<area shape="rect" id="Node000004" href="$d3/d2f/btcopybyreferencesdialog_8cpp.html" title=" " alt="" coords="132,299,351,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="240,118,244,298,238,298,235,118"/>
+<area shape="rect" id="Node000005" href="$d1/d48/btqmlinterface_8h.html" title=" " alt="" coords="433,152,564,177"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="293,105,457,149,456,154,292,110"/>
+<area shape="rect" id="Node000006" href="$d7/dad/btcopybyreferencesdialog_8h.html" title=" " alt="" coords="259,225,461,251"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="466,186,384,227,381,223,463,181"/>
+<area shape="rect" id="Node000007" href="$de/db2/btmodelviewreaddisplay_8cpp.html" title=" " alt="" coords="384,299,592,324"/>
+<area shape="poly" id="edge9_Node000005_Node000007" title=" " alt="" coords="499,192,492,299,486,298,494,191"/>
+<area shape="rect" id="Node000008" href="$de/d6e/btqmlinterface_8cpp.html" title=" " alt="" coords="537,225,682,251"/>
+<area shape="poly" id="edge10_Node000005_Node000008" title=" " alt="" coords="529,183,593,223,590,227,527,187"/>
+<area shape="rect" id="Node000009" href="$d9/d0c/btquickwidget_8cpp.html" title=" " alt="" coords="707,225,848,251"/>
+<area shape="poly" id="edge11_Node000005_Node000009" title=" " alt="" coords="557,178,733,223,732,228,556,183"/>
+<area shape="rect" id="Node000010" href="$d2/d26/cdisplaywindow_8cpp.html" title=" " alt="" coords="872,225,1024,251"/>
+<area shape="poly" id="edge12_Node000005_Node000010" title=" " alt="" coords="578,176,876,223,875,228,577,181"/>
+<area shape="rect" id="Node000011" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="1048,225,1131,251"/>
+<area shape="poly" id="edge13_Node000005_Node000011" title=" " alt="" coords="578,175,708,188,810,196,910,205,1036,223,1048,225,1047,230,1036,228,909,211,809,202,708,194,578,180"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="330,260,262,301,259,296,328,255"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="394,255,468,296,466,301,391,260"/>
+<area shape="poly" id="edge18_Node000014_Node000013" title=" " alt="" coords="673,118,673,152,668,152,668,118"/>
+<area shape="rect" id="Node000015" href="$d7/d67/cbookreadwindow_8cpp.html" title=" " alt="" coords="777,152,943,177"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="715,106,830,149,828,154,713,111"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d9/d46/classQDialog.html" title=" " alt="" coords="5,376,80,401"/>
+<area shape="rect" id="Node000001" href="$de/dfc/classBTAboutModuleDialog.html" title=" " alt="" coords="157,5,323,31"/>
+<area shape="poly" id="edge28_Node000000_Node000001" title=" " alt="" coords="44,362,54,287,71,191,94,100,109,64,126,40,155,22,158,27,130,44,114,67,100,102,76,192,59,288,49,362"/>
+<area shape="rect" id="Node000002" href="$d4/d24/classBtAboutDialog.html" title=" " alt="" coords="182,55,298,80"/>
+<area shape="poly" id="edge29_Node000000_Node000002" title=" " alt="" coords="40,362,43,305,54,232,64,193,79,155,100,120,126,89,152,73,181,66,183,71,154,78,130,93,104,123,84,157,69,195,59,233,48,306,46,362"/>
+<area shape="rect" id="Node000003" href="$d6/d10/classBtConfigDialog.html" title=" " alt="" coords="181,104,299,129"/>
+<area shape="poly" id="edge30_Node000000_Node000003" title=" " alt="" coords="42,361,47,313,61,253,85,191,104,163,126,139,152,123,180,116,181,121,154,128,130,143,108,166,90,194,66,255,53,314,48,362"/>
+<area shape="rect" id="Node000005" href="$db/d1e/classBtCopyByReferencesDialog.html" title=" " alt="" coords="139,153,341,179"/>
+<area shape="poly" id="edge32_Node000000_Node000005" title=" " alt="" coords="45,362,53,323,68,276,91,228,107,207,126,188,145,176,147,181,130,192,111,210,96,231,73,278,58,324,50,363"/>
+<area shape="rect" id="Node000006" href="$dd/d5f/classBtEditBookmarkDialog.html" title="A dialog box for editing bookmarks." alt="" coords="155,203,325,228"/>
+<area shape="poly" id="edge33_Node000000_Node000006" title=" " alt="" coords="49,362,59,333,76,299,98,265,126,237,153,223,156,228,130,241,102,269,80,301,64,335,54,364"/>
+<area shape="rect" id="Node000007" href="$d6/dbe/classBtIndexDialog.html" title=" " alt="" coords="183,252,297,277"/>
+<area shape="poly" id="edge34_Node000000_Node000007" title=" " alt="" coords="56,363,85,323,104,303,127,286,154,274,182,267,183,272,155,279,129,291,108,307,89,327,60,366"/>
+<area shape="rect" id="Node000008" href="$d1/d1e/classBtMessageInputDialog.html" title="The BtMessageInputDialog class provides a editable field for user input. Optionally it displays a lar..." alt="" coords="155,301,325,327"/>
+<area shape="poly" id="edge35_Node000000_Node000008" title=" " alt="" coords="72,366,127,337,167,324,169,329,129,342,75,371"/>
+<area shape="rect" id="Node000009" href="$da/d6d/classBtModuleChooserDialog.html" title=" " alt="" coords="151,351,329,376"/>
+<area shape="poly" id="edge36_Node000000_Node000009" title=" " alt="" coords="93,380,150,372,151,377,94,385"/>
+<area shape="rect" id="Node000011" href="$d7/df7/classBtShortcutsDialog.html" title=" " alt="" coords="171,400,309,425"/>
+<area shape="poly" id="edge38_Node000000_Node000011" title=" " alt="" coords="94,392,171,402,170,407,94,397"/>
+<area shape="rect" id="Node000012" href="$d0/d31/classBtTipDialog.html" title=" " alt="" coords="191,449,289,475"/>
+<area shape="poly" id="edge39_Node000000_Node000012" title=" " alt="" coords="75,407,129,436,191,452,190,458,127,440,72,411"/>
+<area shape="rect" id="Node000013" href="$d6/dc0/classBtWelcomeDialog.html" title=" " alt="" coords="171,499,309,524"/>
+<area shape="poly" id="edge40_Node000000_Node000013" title=" " alt="" coords="60,411,89,450,108,469,129,485,171,501,170,506,127,490,105,473,85,454,56,415"/>
+<area shape="rect" id="Node000014" href="$d6/d1c/classCSwordSetupInstallSourcesDialog.html" title=" " alt="" coords="141,549,339,589"/>
+<area shape="poly" id="edge41_Node000000_Node000014" title=" " alt="" coords="54,413,81,475,103,507,130,535,148,546,146,551,126,539,99,510,77,477,49,416"/>
+<area shape="rect" id="Node000015" href="$dc/d73/classSearch_1_1BtSearchSyntaxHelpDialog.html" title=" " alt="" coords="137,613,343,653"/>
+<area shape="poly" id="edge42_Node000000_Node000015" title=" " alt="" coords="50,415,57,455,72,505,95,556,111,579,130,599,146,610,143,615,126,603,107,582,91,558,67,507,52,457,44,416"/>
+<area shape="rect" id="Node000016" href="$d6/d04/classSearch_1_1CRangeChooserDialog.html" title=" " alt="" coords="131,677,349,703"/>
+<area shape="poly" id="edge43_Node000000_Node000016" title=" " alt="" coords="46,415,50,467,62,534,72,570,87,604,106,635,130,663,148,675,145,679,126,667,102,638,82,606,67,571,57,536,45,468,41,415"/>
+<area shape="rect" id="Node000017" href="$d0/d34/classSearch_1_1CSearchAnalysisDialog.html" title=" " alt="" coords="128,727,352,752"/>
+<area shape="poly" id="edge44_Node000000_Node000017" title=" " alt="" coords="50,415,60,485,77,575,101,660,115,692,130,713,145,724,142,729,126,717,110,695,96,661,72,576,55,486,45,415"/>
+<area shape="rect" id="Node000018" href="$d4/d6c/classSearch_1_1CSearchDialog.html" title=" " alt="" coords="155,776,325,801"/>
+<area shape="poly" id="edge45_Node000000_Node000018" title=" " alt="" coords="49,415,58,495,74,599,98,699,113,737,130,763,157,779,154,784,126,767,108,740,93,701,68,601,52,495,44,415"/>
+<area shape="rect" id="Node000004" href="$df/da6/classCConfigurationDialog.html" title=" " alt="" coords="431,104,591,129"/>
+<area shape="poly" id="edge31_Node000003_Node000004" title=" " alt="" coords="313,114,431,114,431,119,313,119"/>
+<area shape="rect" id="Node000010" href="$d7/da3/classBtSearchModuleChooserDialog.html" title=" " alt="" coords="400,351,623,376"/>
+<area shape="poly" id="edge37_Node000009_Node000010" title=" " alt="" coords="343,361,400,361,400,366,343,366"/>
+</map>
