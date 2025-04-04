@@ -1,0 +1,7 @@
+<map id="CBibleReadWindow" name="CBibleReadWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1212,243,1877"/>
+<area shape="rect" id="Node000002" href="$dc/dc1/classCDisplayWindow.html" title="The base class for all display windows of BibleTime." alt="" coords="5,119,243,1164"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,1178,127,1212,121,1212,121,1178"/>
+<area shape="rect" id="Node000003" href="$df/d90/classQMainWindow.html" title=" " alt="" coords="70,5,178,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,84,127,119,121,119,121,84"/>
+</map>
