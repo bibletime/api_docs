@@ -1,0 +1,9 @@
+<map id="CSwordBibleModuleInfo" name="CSwordBibleModuleInfo">
+<area shape="rect" id="Node000001" title="Implementation for Sword Bibles." alt="" coords="31,1152,237,1597"/>
+<area shape="rect" id="Node000004" href="$d0/d59/classCSwordCommentaryModuleInfo.html" title="Commentary module implementation." alt="" coords="11,1645,257,1731"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,1611,137,1645,131,1645,131,1611"/>
+<area shape="rect" id="Node000002" href="$d7/d42/classCSwordModuleInfo.html" title=" " alt="" coords="5,119,263,1104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,1118,137,1152,131,1152,131,1118"/>
+<area shape="rect" id="Node000003" href="$d9/d5b/classQObject.html" title=" " alt="" coords="101,5,167,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,84,137,118,131,118,131,84"/>
+</map>
