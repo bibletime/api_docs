@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$de/d3d/classQMenu.html" title=" " alt="" coords="5,55,73,80"/>
+<area shape="rect" id="Node000001" href="$d7/ddf/classBtBookshelfGroupingMenu.html" title=" " alt="" coords="121,5,317,31"/>
+<area shape="poly" id="edge65_Node000000_Node000001" title=" " alt="" coords="86,50,121,39,163,28,165,33,122,45,87,55"/>
+<area shape="rect" id="Node000002" href="$d9/de6/classBtMenuView.html" title=" " alt="" coords="167,55,271,80"/>
+<area shape="poly" id="edge66_Node000000_Node000002" title=" " alt="" coords="87,65,167,65,167,70,87,70"/>
+<area shape="rect" id="Node000005" href="$d9/d12/classBtVerseKeyMenu.html" title=" " alt="" coords="153,104,285,129"/>
+<area shape="poly" id="edge69_Node000000_Node000005" title=" " alt="" coords="87,79,122,89,169,101,168,107,121,94,86,84"/>
+<area shape="rect" id="Node000003" href="$d3/de9/classBtModuleChooserMenu.html" title=" " alt="" coords="369,31,542,56"/>
+<area shape="poly" id="edge67_Node000002_Node000003" title=" " alt="" coords="285,58,368,49,369,55,286,63"/>
+<area shape="rect" id="Node000004" href="$de/d9e/classBtOpenWorkActionMenu.html" title=" " alt="" coords="365,80,545,105"/>
+<area shape="poly" id="edge68_Node000002_Node000004" title=" " alt="" coords="285,72,366,80,365,86,285,77"/>
+</map>
