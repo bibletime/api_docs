@@ -1,0 +1,132 @@
+<map id="btconstmoduleset.h" name="btconstmoduleset.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="3300,5,3451,31"/>
+<area shape="rect" id="Node000002" href="$dc/de5/btbookshelfmodel_8cpp.html" title=" " alt="" coords="5,152,172,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3286,23,2782,27,2032,37,1259,55,936,67,692,81,539,97,389,117,152,155,151,149,388,112,539,92,691,76,936,61,1259,49,2031,32,2782,22,3286,17"/>
+<area shape="rect" id="Node000003" href="$d8/d5b/btbookshelfmodel_8h.html" title=" " alt="" coords="703,79,855,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="3286,24,856,91,856,85,3286,19"/>
+<area shape="rect" id="Node000006" href="$d8/d4f/btbookshelftreemodel_8h.html" title=" " alt="" coords="1111,152,1288,177"/>
+<area shape="poly" id="edge74_Node000001_Node000006" title=" " alt="" coords="3286,26,2846,47,2262,81,1708,123,1288,158,1288,153,1708,117,2262,76,2846,42,3286,21"/>
+<area shape="rect" id="Node000016" href="$d9/d0b/btbookshelftreemodel_8cpp.html" title=" " alt="" coords="1911,225,2103,251"/>
+<area shape="poly" id="edge73_Node000001_Node000016" title=" " alt="" coords="3291,35,2079,228,2079,223,3290,30"/>
+<area shape="rect" id="Node000022" href="$dc/dab/btsearchmodulechooserdialog_8cpp.html" title=" " alt="" coords="6854,225,7099,251"/>
+<area shape="poly" id="edge75_Node000001_Node000022" title=" " alt="" coords="3465,22,4787,98,6813,223,6854,225,6854,231,6812,228,4787,104,3464,27"/>
+<area shape="rect" id="Node000026" href="$d0/d60/cswordbackend_8h.html" title=" " alt="" coords="4131,152,4265,177"/>
+<area shape="poly" id="edge80_Node000001_Node000026" title=" " alt="" coords="3454,30,4134,149,4133,155,3453,36"/>
+<area shape="rect" id="Node000047" href="$d4/d4d/btsearchoptionsarea_8cpp.html" title=" " alt="" coords="7124,225,7307,251"/>
+<area shape="poly" id="edge79_Node000001_Node000047" title=" " alt="" coords="3464,18,4421,34,5115,52,5830,76,6026,78,6193,69,6480,47,6617,45,6688,50,6761,58,6839,71,6921,91,7010,116,7106,150,7137,165,7166,185,7207,223,7203,227,7162,189,7134,170,7104,154,7008,121,6920,96,6838,77,6760,63,6687,55,6617,51,6481,53,6194,75,6026,83,5830,81,5115,57,4421,40,3464,23"/>
+<area shape="rect" id="Node000067" href="$dc/d13/btsearchmodulechooserdialog_8h.html" title=" " alt="" coords="6861,152,7092,177"/>
+<area shape="poly" id="edge76_Node000001_Node000067" title=" " alt="" coords="3465,18,4328,35,4947,52,5582,76,6310,116,6861,152,6861,158,6310,121,5582,81,4946,58,4327,41,3465,23"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="690,104,192,155,172,157,172,151,191,149,689,99"/>
+<area shape="rect" id="Node000004" href="$df/d88/btbookshelfdockwidget_8cpp.html" title=" " alt="" coords="1659,299,1860,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="869,96,1068,115,1185,130,1301,149,1437,179,1570,223,1664,261,1737,296,1735,301,1661,266,1568,228,1436,184,1300,155,1184,135,1067,120,869,101"/>
+<area shape="rect" id="Node000005" href="$d4/d3e/btbookshelffiltermodel_8cpp.html" title=" " alt="" coords="299,152,497,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="705,109,460,155,459,149,704,104"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="861,104,1132,149,1131,155,860,109"/>
+<area shape="rect" id="Node000014" href="$d9/d03/btbookshelfworkspage_8cpp.html" title=" " alt="" coords="1025,299,1221,324"/>
+<area shape="poly" id="edge33_Node000003_Node000014" title=" " alt="" coords="797,114,852,180,890,217,933,248,963,265,996,278,1060,296,1058,301,994,283,961,269,930,253,887,221,848,184,793,117"/>
+<area shape="rect" id="Node000015" href="$d9/d62/btopenworkaction_8cpp.html" title=" " alt="" coords="291,299,457,324"/>
+<area shape="poly" id="edge34_Node000003_Node000015" title=" " alt="" coords="690,103,443,129,337,143,289,154,271,176,263,199,265,223,276,249,288,265,304,278,338,296,336,301,301,282,284,269,272,252,260,224,258,198,266,174,286,150,336,137,442,123,690,98"/>
+<area shape="rect" id="Node000025" href="$de/dd4/btbookshelfview_8cpp.html" title=" " alt="" coords="521,152,677,177"/>
+<area shape="poly" id="edge32_Node000003_Node000025" title=" " alt="" coords="739,111,630,154,628,149,737,106"/>
+<area shape="poly" id="edge35_Node000003_Node000026" title=" " alt="" coords="869,92,4131,159,4131,165,869,97"/>
+<area shape="rect" id="Node000066" href="$de/de4/item_8cpp.html" title=" " alt="" coords="701,152,780,177"/>
+<area shape="poly" id="edge72_Node000003_Node000066" title=" " alt="" coords="769,118,749,153,745,151,764,115"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="1290,177,1397,196,1512,223,1615,256,1728,296,1727,301,1613,261,1511,228,1395,202,1289,182"/>
+<area shape="rect" id="Node000007" href="$d4/d1c/btbookshelfdockwidget_8h.html" title=" " alt="" coords="1701,225,1887,251"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="1302,176,1701,223,1700,228,1301,181"/>
+<area shape="rect" id="Node000011" href="$d8/d44/btbookshelfgroupingmenu_8cpp.html" title=" " alt="" coords="496,299,716,324"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="1097,171,947,176,780,187,638,203,590,214,565,227,561,235,559,243,565,262,579,281,594,297,590,300,575,284,561,265,554,244,555,233,562,223,588,209,637,198,779,181,946,171,1097,165"/>
+<area shape="rect" id="Node000012" href="$dc/dd2/btbookshelfgroupingmenu_8h.html" title=" " alt="" coords="575,225,781,251"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="1102,182,762,228,762,223,1102,177"/>
+<area shape="rect" id="Node000013" href="$d9/d70/btbookshelfwidget_8cpp.html" title=" " alt="" coords="755,299,924,324"/>
+<area shape="poly" id="edge18_Node000006_Node000013" title=" " alt="" coords="1097,179,1014,196,972,210,933,228,907,244,884,264,850,300,846,297,880,260,904,240,930,223,970,205,1013,191,1096,173"/>
+<area shape="poly" id="edge19_Node000006_Node000014" title=" " alt="" coords="1097,180,1005,198,969,211,947,227,940,240,940,251,946,261,958,270,994,285,1038,296,1037,301,992,290,955,275,942,265,935,253,935,239,943,224,967,206,1004,193,1096,174"/>
+<area shape="poly" id="edge26_Node000006_Node000015" title=" " alt="" coords="1097,172,615,192,392,208,320,217,288,227,282,236,282,245,296,264,320,282,348,296,345,301,318,287,292,268,277,247,277,235,284,223,319,212,391,203,614,186,1097,166"/>
+<area shape="poly" id="edge17_Node000006_Node000016" title=" " alt="" coords="1302,171,1900,223,1911,224,1911,229,1899,228,1302,177"/>
+<area shape="rect" id="Node000017" href="$d6/d8d/btbookshelfworkspage_8h.html" title=" " alt="" coords="1109,225,1290,251"/>
+<area shape="poly" id="edge20_Node000006_Node000017" title=" " alt="" coords="1202,191,1202,225,1197,225,1197,191"/>
+<area shape="rect" id="Node000019" href="$dd/dba/btinstallpagemodel_8cpp.html" title=" " alt="" coords="1424,299,1599,324"/>
+<area shape="poly" id="edge22_Node000006_Node000019" title=" " alt="" coords="1302,173,1411,192,1457,206,1488,223,1501,241,1509,261,1514,298,1509,299,1504,263,1496,243,1484,227,1455,211,1410,197,1301,179"/>
+<area shape="rect" id="Node000020" href="$df/d56/btinstallpagemodel_8h.html" title=" " alt="" coords="1314,225,1474,251"/>
+<area shape="poly" id="edge23_Node000006_Node000020" title=" " alt="" coords="1244,179,1363,223,1361,228,1242,184"/>
+<area shape="rect" id="Node000021" href="$dd/d87/btopenworkaction_8h.html" title=" " alt="" coords="299,225,449,251"/>
+<area shape="poly" id="edge27_Node000006_Node000021" title=" " alt="" coords="1097,176,814,197,469,228,450,230,449,225,468,223,813,192,1096,170"/>
+<area shape="poly" id="edge29_Node000006_Node000022" title=" " alt="" coords="1302,164,3873,179,5551,197,6259,209,6791,223,6854,226,6853,231,6791,228,6259,214,5551,202,3873,184,1302,169"/>
+<area shape="rect" id="Node000023" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="4315,299,4398,324"/>
+<area shape="poly" id="edge30_Node000006_Node000023" title=" " alt="" coords="1302,168,1662,188,2116,223,2217,236,2318,248,2626,268,2939,283,3538,301,4027,307,4315,308,4315,313,4027,313,3538,307,2938,289,2625,274,2318,253,2216,241,2115,228,1662,193,1302,173"/>
+<area shape="rect" id="Node000024" href="$dc/d32/moduleitem_8cpp.html" title=" " alt="" coords="957,225,1085,251"/>
+<area shape="poly" id="edge31_Node000006_Node000024" title=" " alt="" coords="1159,185,1051,228,1049,223,1157,180"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="1785,264,1767,300,1763,297,1780,262"/>
+<area shape="rect" id="Node000008" href="$d1/df6/bibletime_8cpp.html" title=" " alt="" coords="2237,299,2348,324"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="1888,250,2237,299,2237,305,1887,255"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="658,263,620,300,616,297,654,259"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="717,254,814,296,812,301,715,259"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="764,250,1052,296,1051,301,763,255"/>
+<area shape="poly" id="edge16_Node000012_Node000015" title=" " alt="" coords="617,256,424,301,423,296,615,251"/>
+<area shape="poly" id="edge21_Node000017_Node000014" title=" " alt="" coords="1179,262,1138,300,1134,296,1175,258"/>
+<area shape="poly" id="edge24_Node000020_Node000014" title=" " alt="" coords="1338,257,1168,301,1166,296,1337,252"/>
+<area shape="poly" id="edge25_Node000020_Node000019" title=" " alt="" coords="1426,255,1494,296,1491,301,1423,260"/>
+<area shape="poly" id="edge28_Node000021_Node000015" title=" " alt="" coords="377,264,377,299,371,299,371,264"/>
+<area shape="poly" id="edge43_Node000026_Node000004" title=" " alt="" coords="4117,170,3750,175,3223,185,2687,203,2463,214,2294,228,2227,239,2160,253,1843,301,1842,296,2159,248,2226,234,2294,223,2463,209,2687,197,3223,180,3750,169,4117,164"/>
+<area shape="poly" id="edge36_Node000026_Node000008" title=" " alt="" coords="4117,169,3697,170,3113,177,2826,185,2580,195,2402,209,2347,218,2320,228,2307,243,2299,262,2295,299,2290,298,2294,261,2302,240,2316,223,2346,213,2401,204,2580,190,2826,179,3112,172,3697,165,4117,163"/>
+<area shape="poly" id="edge48_Node000026_Node000014" title=" " alt="" coords="4117,169,3648,174,2945,184,2221,201,1918,213,1689,228,1453,260,1192,301,1191,296,1452,255,1688,223,1918,208,2221,196,2945,179,3648,168,4117,164"/>
+<area shape="poly" id="edge59_Node000026_Node000015" title=" " alt="" coords="4117,169,3367,174,2212,185,1121,202,746,214,627,221,564,228,514,243,467,262,394,301,392,296,465,258,513,238,563,223,627,215,746,209,1121,197,2212,179,3367,168,4117,164"/>
+<area shape="poly" id="edge49_Node000026_Node000017" title=" " alt="" coords="4117,169,2770,186,1925,204,1570,215,1302,228,1291,229,1290,224,1302,223,1570,210,1925,198,2770,181,4117,164"/>
+<area shape="poly" id="edge55_Node000026_Node000019" title=" " alt="" coords="4116,169,3687,171,3076,178,2768,186,2495,196,2284,210,2209,218,2160,228,2139,240,2116,253,1909,277,1599,305,1598,300,1908,271,2114,248,2136,235,2158,223,2208,213,2283,205,2495,191,2768,180,3076,173,3687,165,4116,163"/>
+<area shape="poly" id="edge62_Node000026_Node000022" title=" " alt="" coords="4279,163,4673,166,5301,174,6057,192,6450,205,6835,223,6854,224,6854,229,6835,228,6449,211,6056,197,5301,179,4673,171,4279,169"/>
+<area shape="poly" id="edge71_Node000026_Node000023" title=" " alt="" coords="4280,174,4370,193,4407,207,4431,224,4436,235,4436,247,4424,268,4403,286,4380,301,4378,296,4400,282,4420,264,4431,245,4431,236,4427,227,4405,211,4368,198,4279,179"/>
+<area shape="rect" id="Node000027" href="$d6/d96/bibletime__slots_8cpp.html" title=" " alt="" coords="2330,225,2479,251"/>
+<area shape="poly" id="edge37_Node000026_Node000027" title=" " alt="" coords="4117,169,3847,171,3446,179,2974,197,2731,211,2492,228,2480,229,2480,224,2491,223,2730,205,2974,192,3446,174,3847,166,4117,163"/>
+<area shape="rect" id="Node000028" href="$d5/d00/bibletimeapp_8h.html" title=" " alt="" coords="4297,225,4417,251"/>
+<area shape="poly" id="edge38_Node000026_Node000028" title=" " alt="" coords="4237,180,4332,223,4330,228,4235,185"/>
+<area shape="rect" id="Node000030" href="$d2/d26/cdisplaywindow_8cpp.html" title=" " alt="" coords="5581,299,5733,324"/>
+<area shape="poly" id="edge70_Node000026_Node000030" title=" " alt="" coords="4279,164,5691,187,6451,205,6695,214,6793,223,6800,238,6793,253,6777,260,6746,267,6646,278,6342,295,5998,306,5733,312,5733,306,5998,301,6341,290,6645,273,6745,261,6775,255,6789,249,6795,238,6790,228,6695,219,6451,210,5690,192,4279,170"/>
+<area shape="rect" id="Node000032" href="$d7/dd0/btbookmarksmodel_8cpp.html" title=" " alt="" coords="2503,225,2679,251"/>
+<area shape="poly" id="edge42_Node000026_Node000032" title=" " alt="" coords="4117,170,3524,185,3113,202,2693,228,2680,229,2680,224,2692,223,3112,197,3523,180,4117,164"/>
+<area shape="rect" id="Node000033" href="$dc/d04/btbookshelfinstallfinalpage_8cpp.html" title=" " alt="" coords="2704,225,2929,251"/>
+<area shape="poly" id="edge44_Node000026_Node000033" title=" " alt="" coords="4117,171,3620,191,3283,207,2941,228,2930,229,2929,223,2940,223,3283,202,3620,185,4117,166"/>
+<area shape="rect" id="Node000034" href="$d0/da5/btbookshelflanguagespage_8cpp.html" title=" " alt="" coords="2953,225,3177,251"/>
+<area shape="poly" id="edge45_Node000026_Node000034" title=" " alt="" coords="4117,173,3718,194,3189,228,3177,229,3177,224,3188,223,3718,188,4117,167"/>
+<area shape="rect" id="Node000035" href="$d0/da0/btbookshelfremovefinalpage_8cpp.html" title=" " alt="" coords="3200,225,3436,251"/>
+<area shape="poly" id="edge46_Node000026_Node000035" title=" " alt="" coords="4117,175,3449,228,3436,229,3436,224,3448,223,4116,170"/>
+<area shape="rect" id="Node000036" href="$de/db2/btbookshelftaskpage_8cpp.html" title=" " alt="" coords="3460,225,3645,251"/>
+<area shape="poly" id="edge47_Node000026_Node000036" title=" " alt="" coords="4117,178,3646,229,3645,224,4116,172"/>
+<area shape="rect" id="Node000037" href="$de/d4e/btconfig_8cpp.html" title=" " alt="" coords="3670,225,3771,251"/>
+<area shape="poly" id="edge50_Node000026_Node000037" title=" " alt="" coords="4118,179,3785,228,3772,230,3771,225,3784,223,4117,174"/>
+<area shape="rect" id="Node000038" href="$d5/d72/btfontsettings_8cpp.html" title=" " alt="" coords="3796,225,3936,251"/>
+<area shape="poly" id="edge51_Node000026_Node000038" title=" " alt="" coords="4132,183,3920,228,3919,223,4131,178"/>
+<area shape="rect" id="Node000039" href="$d4/d57/btindexdialog_8cpp.html" title=" " alt="" coords="3961,225,4099,251"/>
+<area shape="poly" id="edge52_Node000026_Node000039" title=" " alt="" coords="4160,185,4059,228,4056,223,4157,180"/>
+<area shape="rect" id="Node000040" href="$da/d1a/btinforendering_8cpp.html" title=" " alt="" coords="4123,225,4273,251"/>
+<area shape="poly" id="edge53_Node000026_Node000040" title=" " alt="" coords="4201,191,4201,225,4195,225,4195,191"/>
+<area shape="rect" id="Node000041" href="$db/dd7/btinstallbackend_8cpp.html" title=" " alt="" coords="4492,225,4648,251"/>
+<area shape="poly" id="edge54_Node000026_Node000041" title=" " alt="" coords="4272,177,4510,223,4509,228,4271,183"/>
+<area shape="rect" id="Node000042" href="$d5/daf/btinstallthread_8cpp.html" title=" " alt="" coords="4673,225,4817,251"/>
+<area shape="poly" id="edge56_Node000026_Node000042" title=" " alt="" coords="4280,174,4661,223,4673,224,4672,230,4660,228,4279,179"/>
+<area shape="rect" id="Node000043" href="$de/db2/btmodelviewreaddisplay_8cpp.html" title=" " alt="" coords="4841,225,5049,251"/>
+<area shape="poly" id="edge57_Node000026_Node000043" title=" " alt="" coords="4279,171,4829,223,4841,224,4840,229,4828,228,4279,176"/>
+<area shape="rect" id="Node000044" href="$de/d93/btmoduletextmodel_8cpp.html" title=" " alt="" coords="5073,225,5251,251"/>
+<area shape="poly" id="edge58_Node000026_Node000044" title=" " alt="" coords="4279,168,4620,189,5061,223,5073,224,5072,229,5060,228,4619,194,4279,173"/>
+<area shape="rect" id="Node000045" href="$de/d6e/btqmlinterface_8cpp.html" title=" " alt="" coords="5276,225,5421,251"/>
+<area shape="poly" id="edge60_Node000026_Node000045" title=" " alt="" coords="4279,166,4701,183,4980,200,5264,223,5276,224,5275,229,5263,228,4980,205,4700,189,4279,171"/>
+<area shape="rect" id="Node000046" href="$d9/d0c/btquickwidget_8cpp.html" title=" " alt="" coords="5446,225,5587,251"/>
+<area shape="poly" id="edge61_Node000026_Node000046" title=" " alt="" coords="4279,165,4768,180,5098,197,5434,223,5446,224,5446,229,5434,228,5098,203,4768,185,4279,170"/>
+<area shape="poly" id="edge63_Node000026_Node000047" title=" " alt="" coords="4279,164,5635,181,6485,198,6842,210,7111,223,7124,224,7123,229,7111,228,6842,215,6485,204,5634,186,4279,169"/>
+<area shape="rect" id="Node000048" href="$d6/dfe/btstandardworkstab_8cpp.html" title=" " alt="" coords="5611,225,5790,251"/>
+<area shape="poly" id="edge64_Node000026_Node000048" title=" " alt="" coords="4279,165,4832,181,5212,198,5600,223,5611,224,5611,229,5599,228,5212,203,4832,186,4279,170"/>
+<area shape="rect" id="Node000049" href="$d4/d3a/bttextbrowser_8cpp.html" title=" " alt="" coords="5814,225,5953,251"/>
+<area shape="poly" id="edge65_Node000026_Node000049" title=" " alt="" coords="4279,163,4534,166,4910,174,5352,192,5579,205,5802,223,5814,224,5813,229,5802,228,5579,211,5351,197,4910,180,4534,171,4279,169"/>
+<area shape="rect" id="Node000050" href="$de/da4/cbiblereadwindow_8cpp.html" title=" " alt="" coords="5977,225,6144,251"/>
+<area shape="poly" id="edge66_Node000026_Node000050" title=" " alt="" coords="4279,164,4557,167,4973,175,5463,193,5965,223,5977,224,5977,229,5964,228,5463,198,4973,181,4557,172,4279,169"/>
+<area shape="rect" id="Node000051" href="$d9/de6/cbookmarkindex_8cpp.html" title=" " alt="" coords="6168,225,6327,251"/>
+<area shape="poly" id="edge67_Node000026_Node000051" title=" " alt="" coords="4279,163,4583,164,5045,172,5594,190,5878,204,6157,223,6168,224,6168,229,6156,228,5878,209,5594,195,5045,177,4583,170,4279,168"/>
+<area shape="rect" id="Node000052" href="$d0/d6f/ccommentaryreadwindow_8cpp.html" title=" " alt="" coords="6351,225,6568,251"/>
+<area shape="poly" id="edge68_Node000026_Node000052" title=" " alt="" coords="4279,164,4608,167,5115,175,5719,193,6339,223,6350,223,6350,229,6339,228,5719,198,5114,181,4608,172,4279,169"/>
+<area shape="rect" id="Node000053" href="$d4/d47/cdisplaytemplatemgr_8cpp.html" title=" " alt="" coords="6593,225,6779,251"/>
+<area shape="poly" id="edge69_Node000026_Node000053" title=" " alt="" coords="4279,163,4639,163,5205,170,5883,188,6235,203,6581,223,6593,224,6592,229,6580,228,6235,208,5883,193,5205,175,4639,169,4279,168"/>
+<area shape="poly" id="edge39_Node000028_Node000008" title=" " alt="" coords="4284,253,4092,266,3844,277,3263,295,2348,312,2348,307,3263,290,3844,272,4092,261,4283,248"/>
+<area shape="poly" id="edge41_Node000028_Node000023" title=" " alt="" coords="4359,264,4359,299,4354,299,4354,264"/>
+<area shape="poly" id="edge40_Node000028_Node000030" title=" " alt="" coords="4431,244,4481,248,4801,268,5116,285,5581,305,5580,310,5116,290,4801,274,4480,253,4431,249"/>
+<area shape="poly" id="edge77_Node000067_Node000022" title=" " alt="" coords="6979,191,6979,225,6974,225,6974,191"/>
+<area shape="poly" id="edge78_Node000067_Node000047" title=" " alt="" coords="7029,179,7177,223,7176,228,7027,184"/>
+</map>
