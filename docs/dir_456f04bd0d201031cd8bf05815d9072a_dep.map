@@ -1,0 +1,10 @@
+<map id="bookmarks" name="bookmarks">
+<area shape="rect" id="node1" href="dir_456f04bd0d201031cd8bf05815d9072a.html" title="bookmarks" alt="" coords="37,52,132,77"/>
+<area shape="rect" id="node2" href="dir_3f615ade772d23cefe5e20dcb18424a2.html" title="backend" alt="" coords="5,125,81,151"/>
+<area shape="poly" id="edge1" href="dir_000002_000001.html" alt="" coords="80,79,59,115,55,112,76,76"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000002_000001.html" title="5" alt="" coords="62,107,71,121"/>
+<area shape="rect" id="node3" href="dir_b7878ad5ecbf2506f4125b9d34c97e45.html" title="util" alt="" coords="106,125,149,151"/>
+<area shape="poly" id="edge2" href="dir_000002_000022.html" alt="" coords="94,76,116,112,111,115,89,79"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000002_000022.html" title="7" alt="" coords="114,98,123,113"/>
+<area shape="rect" id="clust1" href="dir_8509b06bafa958d2011203a730bf5778.html" title="frontend" alt="" coords="26,16,143,88"/>
+</map>

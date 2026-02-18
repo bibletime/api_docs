@@ -1,0 +1,19 @@
+<map id="BtBookshelfWizardPage" name="BtBookshelfWizardPage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="755,119,948,204"/>
+<area shape="rect" id="Node000003" href="$de/d0a/classBtBookshelfInstallFinalPage.html" title=" " alt="" coords="5,252,225,752"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="741,169,608,178,461,193,391,205,329,218,277,235,239,254,227,264,224,260,237,250,275,230,327,213,390,199,460,188,608,172,741,164"/>
+<area shape="rect" id="Node000004" href="$d8/d7f/classBtBookshelfLanguagesPage.html" title=" " alt="" coords="250,359,469,645"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="741,168,677,176,609,191,542,217,511,234,482,254,459,277,438,302,405,360,400,357,434,299,455,273,479,250,508,229,540,212,608,186,676,171,740,162"/>
+<area shape="rect" id="Node000005" href="$d0/dfd/classBtBookshelfRemoveFinalPage.html" title=" " alt="" coords="493,419,727,585"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="781,215,741,254,712,294,686,336,645,420,640,418,681,334,708,291,737,250,777,211"/>
+<area shape="rect" id="Node000006" href="$d2/de4/classBtBookshelfSourcesPage.html" title=" " alt="" coords="751,359,951,645"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="854,218,854,359,849,359,849,218"/>
+<area shape="rect" id="Node000007" href="$df/dcc/classBtBookshelfSourcesProgressPage.html" title=" " alt="" coords="976,335,1207,669"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="926,211,965,250,995,290,1020,333,1016,335,990,293,961,254,922,215"/>
+<area shape="rect" id="Node000008" href="$d3/d1b/classBtBookshelfTaskPage.html" title=" " alt="" coords="1231,379,1410,625"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="962,176,1037,189,1112,206,1177,226,1202,238,1221,250,1247,277,1269,309,1285,343,1299,378,1294,380,1281,346,1264,312,1243,281,1218,254,1200,242,1175,231,1111,211,1036,194,961,181"/>
+<area shape="rect" id="Node000009" href="$df/d7e/classBtBookshelfWorksPage.html" title=" " alt="" coords="1435,269,1657,735"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="962,165,1085,175,1220,191,1341,216,1389,231,1423,250,1444,267,1441,271,1421,254,1387,236,1340,221,1219,196,1085,180,962,171"/>
+<area shape="rect" id="Node000002" href="$dc/d67/classQWizardPage.html" title=" " alt="" coords="801,5,901,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="854,85,854,119,849,119,849,85"/>
+</map>

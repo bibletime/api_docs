@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d2/def/classQToolButton.html" title=" " alt="" coords="5,104,107,129"/>
+<area shape="rect" id="Node000001" href="$d7/d32/classBtDisplaySettingsButton.html" title=" " alt="" coords="166,5,347,31"/>
+<area shape="poly" id="edge101_Node000000_Node000001" title=" " alt="" coords="79,92,113,65,154,40,184,28,186,33,156,44,116,69,82,96"/>
+<area shape="rect" id="Node000002" href="$d4/df7/classBtDropdownChooserButton.html" title=" " alt="" coords="157,55,356,80"/>
+<area shape="poly" id="edge102_Node000000_Node000002" title=" " alt="" coords="118,98,154,89,200,77,202,83,155,94,119,103"/>
+<area shape="rect" id="Node000003" href="$d0/da1/classBtModuleChooserButton.html" title=" " alt="" coords="167,104,347,129"/>
+<area shape="poly" id="edge103_Node000000_Node000003" title=" " alt="" coords="120,114,166,114,166,119,120,119"/>
+<area shape="rect" id="Node000004" href="$d8/d63/classCScrollButton.html" title=" " alt="" coords="201,153,312,179"/>
+<area shape="poly" id="edge104_Node000000_Node000004" title=" " alt="" coords="120,130,205,151,204,156,119,135"/>
+<area shape="rect" id="Node000005" href="$d5/ddc/classanonymous__namespace_02bttoolbarpopupaction_8cpp_03_1_1BtToolButton.html" title=" " alt="" coords="155,203,359,257"/>
+<area shape="poly" id="edge105_Node000000_Node000005" title=" " alt="" coords="84,136,117,162,156,188,181,200,178,205,153,192,114,167,81,141"/>
+</map>

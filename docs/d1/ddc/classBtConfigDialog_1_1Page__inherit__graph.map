@@ -1,0 +1,13 @@
+<map id="BtConfigDialog::Page" name="BtConfigDialog::Page">
+<area shape="rect" id="Node000001" title=" " alt="" coords="338,119,519,264"/>
+<area shape="rect" id="Node000003" href="$d7/dc3/classBtFontSettingsPage.html" title=" " alt="" coords="5,399,185,625"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="326,232,260,267,228,289,200,314,167,355,140,400,136,398,162,352,196,310,225,285,257,263,324,227"/>
+<area shape="rect" id="Node000004" href="$d7/d1f/classCAcceleratorSettingsPage.html" title="The shortcut settings page." alt="" coords="210,379,415,645"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="401,278,363,380,358,378,396,276"/>
+<area shape="rect" id="Node000005" href="$de/d34/classCDisplaySettingsPage.html" title=" " alt="" coords="440,312,649,712"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="462,276,475,311,470,312,457,278"/>
+<area shape="rect" id="Node000006" href="$da/dab/classCSwordSettingsPage.html" title=" " alt="" coords="673,439,845,585"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="533,226,602,261,634,284,664,310,688,339,709,372,739,438,735,440,704,375,684,343,660,314,631,288,599,266,531,231"/>
+<area shape="rect" id="Node000002" href="$d8/ded/classQWidget.html" title=" " alt="" coords="393,5,464,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="431,84,431,118,426,118,426,84"/>
+</map>

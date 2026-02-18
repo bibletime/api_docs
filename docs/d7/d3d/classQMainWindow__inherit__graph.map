@@ -1,0 +1,15 @@
+<map id="QMainWindow" name="QMainWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="314,5,422,71"/>
+<area shape="rect" id="Node000002" href="$d7/d66/classBibleTime.html" title=" " alt="" coords="135,119,351,1324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="362,85,353,134,348,133,357,84"/>
+<area shape="rect" id="Node000003" href="$dc/dc1/classCDisplayWindow.html" title="The base class for all display windows of BibleTime." alt="" coords="375,189,612,1254"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="379,83,398,188,393,189,374,84"/>
+<area shape="rect" id="Node000004" href="$da/d2f/classCBibleReadWindow.html" title=" " alt="" coords="5,1372,243,2037"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="405,1268,365,1326,352,1338,338,1346,310,1352,283,1357,270,1363,257,1374,245,1387,241,1383,253,1370,267,1358,281,1352,309,1346,336,1341,348,1334,361,1322,400,1265"/>
+<area shape="rect" id="Node000005" href="$d9/d59/classCBookReadWindow.html" title=" " alt="" coords="267,1572,480,1837"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="429,1268,392,1572,387,1571,424,1267"/>
+<area shape="rect" id="Node000006" href="$d4/d85/classCCommentaryReadWindow.html" title=" " alt="" coords="505,1522,722,1887"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="563,1267,594,1521,588,1522,557,1268"/>
+<area shape="rect" id="Node000007" href="$d2/d38/classCLexiconReadWindow.html" title="The class used to display lexicons." alt="" coords="746,1622,929,1787"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="619,1043,737,1371,816,1621,811,1623,732,1373,614,1045"/>
+</map>

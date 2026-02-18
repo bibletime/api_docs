@@ -1,0 +1,13 @@
+<map id="CKeyChooser" name="CKeyChooser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="281,119,455,324"/>
+<area shape="rect" id="Node000003" href="$d8/d57/classCBibleKeyChooser.html" title="A key chooser for bibles and commentaries." alt="" coords="5,422,163,627"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,289,222,329,177,374,140,424,135,420,173,370,219,325,269,285"/>
+<area shape="rect" id="Node000004" href="$df/d01/classCBookKeyChooser.html" title=" " alt="" coords="187,372,359,677"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="335,338,324,372,319,371,330,336"/>
+<area shape="rect" id="Node000005" href="$d1/dca/classCBookTreeChooser.html" title=" " alt="" coords="383,372,545,677"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="407,336,418,371,413,372,402,338"/>
+<area shape="rect" id="Node000006" href="$d6/d9b/classCLexiconKeyChooser.html" title=" " alt="" coords="569,422,743,627"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="468,288,515,327,559,370,599,420,594,423,555,374,511,331,464,292"/>
+<area shape="rect" id="Node000002" href="$d8/ded/classQWidget.html" title=" " alt="" coords="333,5,403,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="371,84,371,119,365,119,365,84"/>
+</map>
