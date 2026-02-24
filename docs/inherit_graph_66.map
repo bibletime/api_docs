@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$dc/d67/classQWizardPage.html" title=" " alt="" coords="5,203,113,228"/>
+<area shape="rect" id="Node000001" href="$da/dee/classBtBookshelfWizardPage.html" title=" " alt="" coords="161,153,339,179"/>
+<area shape="poly" id="edge138_Node000000_Node000001" title=" " alt="" coords="122,197,199,176,200,181,123,202"/>
+<area shape="rect" id="Node000009" href="$d9/d76/classBtEditTextPage.html" title=" " alt="" coords="191,203,309,228"/>
+<area shape="poly" id="edge146_Node000000_Node000009" title=" " alt="" coords="127,213,191,213,191,218,127,218"/>
+<area shape="rect" id="Node000010" href="$d5/dcc/classBtPlainOrHtmlPage.html" title=" " alt="" coords="177,252,323,277"/>
+<area shape="poly" id="edge147_Node000000_Node000010" title=" " alt="" coords="123,229,200,249,199,254,122,234"/>
+<area shape="rect" id="Node000002" href="$de/d0a/classBtBookshelfInstallFinalPage.html" title=" " alt="" coords="405,5,607,31"/>
+<area shape="poly" id="edge139_Node000001_Node000002" title=" " alt="" coords="268,141,317,89,350,62,385,40,414,28,416,33,388,44,353,66,321,93,272,144"/>
+<area shape="rect" id="Node000003" href="$d8/d7f/classBtBookshelfLanguagesPage.html" title=" " alt="" coords="405,55,607,80"/>
+<area shape="poly" id="edge140_Node000001_Node000003" title=" " alt="" coords="280,144,328,115,386,89,424,78,426,83,388,94,331,120,283,148"/>
+<area shape="rect" id="Node000004" href="$d0/dfd/classBtBookshelfRemoveFinalPage.html" title=" " alt="" coords="397,104,615,129"/>
+<area shape="poly" id="edge141_Node000001_Node000004" title=" " alt="" coords="329,148,439,127,440,132,330,153"/>
+<area shape="rect" id="Node000005" href="$d2/de4/classBtBookshelfSourcesPage.html" title=" " alt="" coords="415,153,597,179"/>
+<area shape="poly" id="edge142_Node000001_Node000005" title=" " alt="" coords="352,163,415,163,415,169,352,169"/>
+<area shape="rect" id="Node000006" href="$df/dcc/classBtBookshelfSourcesProgressPage.html" title=" " alt="" coords="387,203,625,228"/>
+<area shape="poly" id="edge143_Node000001_Node000006" title=" " alt="" coords="330,179,440,200,439,205,329,184"/>
+<area shape="rect" id="Node000007" href="$d3/d1b/classBtBookshelfTaskPage.html" title=" " alt="" coords="425,252,587,277"/>
+<area shape="poly" id="edge144_Node000001_Node000007" title=" " alt="" coords="327,181,340,188,355,200,365,213,373,226,388,237,426,252,424,257,385,242,370,229,360,216,352,204,337,192,325,186"/>
+<area shape="rect" id="Node000008" href="$df/d7e/classBtBookshelfWorksPage.html" title=" " alt="" coords="420,301,592,327"/>
+<area shape="poly" id="edge145_Node000001_Node000008" title=" " alt="" coords="334,183,340,188,352,200,359,213,365,239,371,264,377,275,388,287,421,303,419,308,385,291,373,279,366,266,360,240,354,215,348,204,337,192,331,187"/>
+</map>
