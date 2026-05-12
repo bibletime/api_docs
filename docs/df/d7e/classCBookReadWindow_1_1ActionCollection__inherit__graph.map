@@ -1,0 +1,9 @@
+<map id="CBookReadWindow::ActionCollection" name="CBookReadWindow::ActionCollection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,485,260,551"/>
+<area shape="rect" id="Node000002" href="$db/ddf/classCDisplayWindow_1_1ActionCollection.html" title=" " alt="" coords="14,372,251,437"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,451,135,485,130,485,130,451"/>
+<area shape="rect" id="Node000003" href="$d0/d28/classBtActionCollection.html" title=" " alt="" coords="52,119,213,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,338,135,372,130,372,130,338"/>
+<area shape="rect" id="Node000004" href="$d9/d5b/classQObject.html" title=" " alt="" coords="99,5,166,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="135,84,135,119,130,119,130,84"/>
+</map>

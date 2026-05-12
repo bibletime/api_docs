@@ -1,0 +1,13 @@
+<map id="QToolButton" name="QToolButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="570,5,663,71"/>
+<area shape="rect" id="Node000002" href="$d7/d32/classBtDisplaySettingsButton.html" title=" " alt="" coords="5,119,255,664"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="556,49,395,77,319,97,289,108,268,121,257,130,253,126,264,116,286,104,317,92,394,71,555,44"/>
+<area shape="rect" id="Node000003" href="$d4/df7/classBtDropdownChooserButton.html" title=" " alt="" coords="279,329,493,454"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="560,75,532,96,508,120,473,171,445,226,422,281,405,329,400,327,417,279,440,224,469,168,504,117,529,92,557,70"/>
+<area shape="rect" id="Node000004" href="$d0/da1/classBtModuleChooserButton.html" title=" " alt="" coords="518,339,715,444"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="619,84,619,338,614,338,614,84"/>
+<area shape="rect" id="Node000005" href="$d8/d63/classCScrollButton.html" title=" " alt="" coords="740,319,912,464"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="677,70,705,91,729,117,760,166,784,218,802,270,815,318,810,319,797,272,779,220,755,168,725,120,701,95,674,74"/>
+<area shape="rect" id="Node000006" href="$d5/ddc/classanonymous__namespace_02bttoolbarpopupaction_8cpp_03_1_1BtToolButton.html" title=" " alt="" coords="936,334,1132,449"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="678,37,735,42,801,55,867,79,898,96,926,117,949,140,968,166,998,223,1017,281,1029,333,1024,334,1012,282,993,225,963,168,945,143,923,121,895,100,865,84,800,60,735,47,677,42"/>
+</map>

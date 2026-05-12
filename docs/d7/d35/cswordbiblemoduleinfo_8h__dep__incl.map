@@ -1,0 +1,36 @@
+<map id="cswordbiblemoduleinfo.h" name="cswordbiblemoduleinfo.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1045,5,1231,31"/>
+<area shape="rect" id="Node000002" href="$db/dc9/btbiblekeywidget_8h.html" title=" " alt="" coords="227,79,374,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1031,29,743,50,393,81,375,83,374,78,392,76,742,45,1031,24"/>
+<area shape="rect" id="Node000005" href="$dc/d8f/cbiblekeychooser_8cpp.html" title=" " alt="" coords="435,152,596,177"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="1031,23,865,28,679,37,520,55,467,67,438,81,433,89,433,98,445,117,468,135,492,150,490,154,465,139,441,121,428,100,428,88,435,77,465,62,519,49,678,32,865,22,1031,18"/>
+<area shape="rect" id="Node000006" href="$de/db2/btmodelviewreaddisplay_8cpp.html" title=" " alt="" coords="449,79,657,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1031,35,647,81,646,76,1031,30"/>
+<area shape="rect" id="Node000007" href="$de/d93/btmoduletextmodel_8cpp.html" title=" " alt="" coords="681,79,859,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1066,36,830,81,829,76,1065,31"/>
+<area shape="rect" id="Node000008" href="$d7/d2f/cbiblekeychooser_8h.html" title=" " alt="" coords="883,79,1030,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1097,38,987,81,985,76,1095,33"/>
+<area shape="rect" id="Node000010" href="$de/da4/cbiblereadwindow_8cpp.html" title=" " alt="" coords="1055,79,1221,104"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1141,44,1141,79,1135,79,1135,44"/>
+<area shape="rect" id="Node000011" href="$d9/d7b/cswordbackend_8cpp.html" title=" " alt="" coords="1263,152,1413,177"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="1171,35,1234,77,1326,150,1323,154,1231,81,1168,40"/>
+<area shape="rect" id="Node000012" href="$d4/d94/cswordbiblemoduleinfo_8cpp.html" title=" " alt="" coords="1297,79,1499,104"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="1194,32,1357,76,1355,81,1192,37"/>
+<area shape="rect" id="Node000013" href="$de/dcf/cswordcommentarymoduleinfo_8h.html" title=" " alt="" coords="1523,79,1761,104"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="1233,30,1561,76,1560,81,1232,35"/>
+<area shape="rect" id="Node000015" href="$d3/db9/cswordmoduleinfo_8cpp.html" title=" " alt="" coords="1785,79,1955,104"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="1245,26,1773,76,1785,77,1785,83,1772,81,1245,31"/>
+<area shape="rect" id="Node000016" href="$d1/ddc/cswordversekey_8cpp.html" title=" " alt="" coords="1979,79,2131,104"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="1245,22,1569,43,1968,76,1979,77,1979,83,1967,81,1568,48,1245,28"/>
+<area shape="rect" id="Node000003" href="$d7/d92/btbiblekeywidget_8cpp.html" title=" " alt="" coords="5,152,167,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,111,122,154,120,149,252,106"/>
+<area shape="rect" id="Node000004" href="$df/dae/btdropdownchooserbutton_8cpp.html" title=" " alt="" coords="191,152,410,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="303,118,303,152,298,152,298,118"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="349,106,481,149,480,154,347,111"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="873,109,587,155,586,149,872,104"/>
+<area shape="rect" id="Node000009" href="$d4/d0c/ckeychooser_8cpp.html" title=" " alt="" coords="892,152,1021,177"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="959,118,959,152,954,152,954,118"/>
+<area shape="poly" id="edge15_Node000013_Node000011" title=" " alt="" coords="1581,110,1388,154,1387,149,1579,104"/>
+<area shape="rect" id="Node000014" href="$d9/db8/cswordcommentarymoduleinfo_8cpp.html" title=" " alt="" coords="1516,152,1768,177"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="1645,118,1645,152,1639,152,1639,118"/>
+</map>

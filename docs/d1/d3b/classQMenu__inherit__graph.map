@@ -1,0 +1,13 @@
+<map id="QMenu" name="QMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="281,5,341,71"/>
+<area shape="rect" id="Node000002" href="$d7/ddf/classBtBookshelfGroupingMenu.html" title=" " alt="" coords="5,159,219,404"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,79,233,120,200,160,196,157,229,117,269,75"/>
+<area shape="rect" id="Node000003" href="$d9/de6/classBtMenuView.html" title=" " alt="" coords="243,119,379,444"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,84,313,118,308,118,308,84"/>
+<area shape="rect" id="Node000006" href="$d9/d12/classBtVerseKeyMenu.html" title=" " alt="" coords="403,219,575,344"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="353,74,393,117,428,167,459,217,454,220,424,170,389,120,349,77"/>
+<area shape="rect" id="Node000004" href="$d3/de9/classBtModuleChooserMenu.html" title=" " alt="" coords="107,492,296,797"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,458,250,493,245,491,255,456"/>
+<area shape="rect" id="Node000005" href="$de/d9e/classBtOpenWorkActionMenu.html" title=" " alt="" coords="320,512,517,777"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="365,456,382,511,377,513,360,458"/>
+</map>

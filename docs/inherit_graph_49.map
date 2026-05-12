@@ -1,0 +1,41 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d9/d5b/classQObject.html" title=" " alt="" coords="51,177,126,203"/>
+<area shape="rect" id="Node000001" href="$d9/dae/classBTHistory.html" title=" " alt="" coords="249,79,335,104"/>
+<area shape="poly" id="edge71_Node000000_Node000001" title=" " alt="" coords="120,168,166,140,219,113,248,102,250,107,221,118,168,145,122,172"/>
+<area shape="rect" id="Node000002" href="$d0/d28/classBtActionCollection.html" title=" " alt="" coords="221,128,363,153"/>
+<area shape="poly" id="edge72_Node000000_Node000002" title=" " alt="" coords="139,175,238,151,240,156,140,180"/>
+<area shape="rect" id="Node000009" href="$d8/d04/classBtInstallMgr.html" title=" " alt="" coords="241,29,343,55"/>
+<area shape="poly" id="edge79_Node000000_Node000009" title=" " alt="" coords="107,165,154,114,185,87,219,64,243,52,245,57,221,68,188,92,158,118,111,168"/>
+<area shape="rect" id="Node000012" href="$d9/d89/classBtQmlInterface.html" title=" " alt="" coords="231,177,353,203"/>
+<area shape="poly" id="edge80_Node000000_Node000012" title=" " alt="" coords="140,187,231,187,231,193,140,193"/>
+<area shape="rect" id="Node000013" href="$dc/d34/classBtSignal.html" title=" " alt="" coords="254,227,330,252"/>
+<area shape="poly" id="edge81_Node000000_Node000013" title=" " alt="" coords="140,200,255,228,253,233,139,205"/>
+<area shape="rect" id="Node000014" href="$d9/d73/classCSwordBackend.html" title="The backend layer main class, a backend implementation of Sword." alt="" coords="229,276,355,301"/>
+<area shape="poly" id="edge82_Node000000_Node000014" title=" " alt="" coords="123,208,221,261,252,273,250,278,219,266,121,212"/>
+<area shape="rect" id="Node000015" href="$d7/d42/classCSwordModuleInfo.html" title=" " alt="" coords="220,325,364,351"/>
+<area shape="poly" id="edge83_Node000000_Node000015" title=" " alt="" coords="111,212,159,261,189,287,221,310,248,323,245,328,219,315,186,292,155,265,107,215"/>
+<area shape="rect" id="Node000003" href="$d9/d10/classBibleTime_1_1ActionCollection.html" title=" " alt="" coords="433,85,636,111"/>
+<area shape="poly" id="edge73_Node000002_Node000003" title=" " alt="" coords="376,123,461,108,462,113,377,128"/>
+<area shape="rect" id="Node000004" href="$db/ddf/classCDisplayWindow_1_1ActionCollection.html" title=" " alt="" coords="412,135,657,160"/>
+<area shape="poly" id="edge74_Node000002_Node000004" title=" " alt="" coords="377,140,412,141,412,147,377,146"/>
+<area shape="rect" id="Node000005" href="$d3/d5b/classCBibleReadWindow_1_1ActionCollection.html" title=" " alt="" coords="738,19,935,59"/>
+<area shape="poly" id="edge75_Node000004_Node000005" title=" " alt="" coords="639,128,656,120,671,108,679,95,688,82,704,69,737,54,739,59,707,74,692,85,684,98,674,112,659,124,642,132"/>
+<area shape="rect" id="Node000006" href="$d4/ddd/classCBookReadWindow_1_1ActionCollection.html" title=" " alt="" coords="705,84,968,109"/>
+<area shape="poly" id="edge76_Node000004_Node000006" title=" " alt="" coords="624,130,760,107,761,112,625,135"/>
+<area shape="rect" id="Node000007" href="$d6/d60/classCCommentaryReadWindow_1_1ActionCollection.html" title=" " alt="" coords="736,134,937,174"/>
+<area shape="poly" id="edge77_Node000004_Node000007" title=" " alt="" coords="671,148,736,149,736,154,671,153"/>
+<area shape="rect" id="Node000008" href="$d4/da8/classCLexiconReadWindow_1_1ActionCollection.html" title=" " alt="" coords="753,198,920,238"/>
+<area shape="poly" id="edge78_Node000004_Node000008" title=" " alt="" coords="604,161,754,196,753,201,603,166"/>
+<area shape="rect" id="Node000016" href="$db/d50/classCSwordBibleModuleInfo.html" title="Implementation for Sword Bibles." alt="" coords="446,276,623,301"/>
+<area shape="poly" id="edge84_Node000015_Node000016" title=" " alt="" coords="365,320,411,310,467,299,468,304,413,315,366,325"/>
+<area shape="rect" id="Node000018" href="$db/d7a/classCSwordBookModuleInfo.html" title="Class for generic book support." alt="" coords="446,325,623,351"/>
+<area shape="poly" id="edge86_Node000015_Node000018" title=" " alt="" coords="378,335,446,335,446,341,378,341"/>
+<area shape="rect" id="Node000019" href="$dd/d0a/classCSwordLexiconModuleInfo.html" title=" " alt="" coords="437,375,632,400"/>
+<area shape="poly" id="edge87_Node000015_Node000019" title=" " alt="" coords="366,351,413,361,468,372,467,377,411,366,365,356"/>
+<area shape="rect" id="Node000017" href="$d0/d59/classCSwordCommentaryModuleInfo.html" title="Commentary module implementation." alt="" coords="722,276,951,301"/>
+<area shape="poly" id="edge85_Node000016_Node000017" title=" " alt="" coords="637,286,722,286,722,291,637,291"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="21,5,156,31"/>
+<area shape="poly" id="edge88_Node000010_Node000009" title=" " alt="" coords="170,25,241,33,241,39,169,30"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="5,55,172,80"/>
+<area shape="poly" id="edge89_Node000011_Node000009" title=" " alt="" coords="185,53,241,46,241,51,186,58"/>
+</map>
