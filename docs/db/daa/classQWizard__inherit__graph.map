@@ -1,0 +1,7 @@
+<map id="QWizard" name="QWizard">
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,5,232,71"/>
+<area shape="rect" id="Node000002" href="$df/dc1/classBtBookshelfWizard.html" title="The Bookshelf Manager wizard." alt="" coords="5,119,192,664"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,85,178,119,172,118,182,83"/>
+<area shape="rect" id="Node000003" href="$db/d96/classBtEditTextWizard.html" title="The Edit Text wizard for editing the personal commentary." alt="" coords="217,279,375,504"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,83,267,278,262,279,207,85"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$dd/dea/classRendering_1_1CTextRendering.html" title="Text rendering based on trees." alt="" coords="5,63,204,88"/>
+<area shape="rect" id="Node000001" href="$d3/d32/classRendering_1_1CDisplayRendering.html" title="Rendering for the html display widget." alt="" coords="252,5,472,31"/>
+<area shape="poly" id="edge148_Node000000_Node000001" title=" " alt="" coords="175,57,304,28,305,33,176,62"/>
+<area shape="rect" id="Node000003" href="$db/d7d/classRendering_1_1CPlainTextExportRendering.html" title="Text rendering as plain text." alt="" coords="259,55,465,95"/>
+<area shape="poly" id="edge150_Node000000_Node000003" title=" " alt="" coords="218,73,258,73,258,78,218,78"/>
+<area shape="rect" id="Node000004" href="$d5/d70/classRendering_1_1CrossRefRendering.html" title=" " alt="" coords="252,120,472,145"/>
+<area shape="poly" id="edge151_Node000000_Node000004" title=" " alt="" coords="176,88,305,117,304,123,175,94"/>
+<area shape="rect" id="Node000002" href="$d5/d4a/classBtPrinter.html" title="Manages the print item queue and printing." alt="" coords="520,5,599,31"/>
+<area shape="poly" id="edge149_Node000001_Node000002" title=" " alt="" coords="486,15,520,15,520,21,486,21"/>
+</map>

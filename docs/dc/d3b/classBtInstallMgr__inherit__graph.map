@@ -1,0 +1,9 @@
+<map id="BtInstallMgr" name="BtInstallMgr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="51,119,269,304"/>
+<area shape="rect" id="Node000002" href="$d9/d5b/classQObject.html" title=" " alt="" coords="5,5,72,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,81,97,117,93,120,67,84"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,5,223,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,85,163,119,157,119,157,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="247,5,406,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="288,83,251,120,247,117,284,79"/>
+</map>

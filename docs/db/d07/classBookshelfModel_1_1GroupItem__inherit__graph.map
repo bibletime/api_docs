@@ -1,0 +1,17 @@
+<map id="BookshelfModel::GroupItem&lt; TYPE &gt;" name="BookshelfModel::GroupItem&lt; TYPE &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,460,450,560"/>
+<area shape="rect" id="Node000003" href="$d1/dcc/classBookshelfModel_1_1GroupItem.html" title=" " alt="" coords="25,623,221,723"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,542,202,561,167,586,153,603,141,624,137,621,148,600,164,582,200,556,240,537"/>
+<area shape="rect" id="Node000005" href="$d1/dcc/classBookshelfModel_1_1GroupItem.html" title=" " alt="" coords="254,623,450,723"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="355,574,355,622,349,622,349,574"/>
+<area shape="rect" id="Node000007" href="$d1/dcc/classBookshelfModel_1_1GroupItem.html" title=" " alt="" coords="487,623,683,723"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="464,539,502,558,536,582,553,600,567,621,562,624,549,603,533,586,499,562,461,544"/>
+<area shape="rect" id="Node000002" href="$d5/d1c/classBookshelfModel_1_1Item.html" title=" " alt="" coords="273,5,431,411"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,425,355,460,349,460,349,425"/>
+<area shape="rect" id="Node000004" href="$d8/d6d/classBookshelfModel_1_1CategoryItem.html" title=" " alt="" coords="5,772,221,917"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,737,120,772,115,772,117,736"/>
+<area shape="rect" id="Node000006" href="$d9/dea/classBookshelfModel_1_1IndexingItem.html" title=" " alt="" coords="245,792,459,897"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="355,736,355,792,349,792,349,736"/>
+<area shape="rect" id="Node000008" href="$db/da1/classBookshelfModel_1_1LanguageItem.html" title=" " alt="" coords="483,792,703,897"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="591,736,594,791,588,792,586,737"/>
+</map>
